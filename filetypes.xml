@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="16">
-    <extensionMap>
-      <mapping ext="otf" type="Native" />
-      <mapping pattern="about" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>
