@@ -79,6 +79,6 @@
         <option value="https://svn.motherapp.com/herman_miller_android/trunk/herman_miller_android/" />
       </list>
     </option>
-    <option name="mySvnCommandLine" value="/usr/local/bin/svn" />
+    <option name="mySvnCommandLine" value="/usr/bin/svn" />
   </component>
 </application>
