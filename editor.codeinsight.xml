@@ -2,6 +2,7 @@
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
     <option name="ADD_IMPORTS_ON_PASTE" value="1" />
+    <option name="ADD_MEMBER_IMPORTS_ON_THE_FLY" value="false" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="NEXT_ERROR_ACTION_GOES_TO_ERRORS_FIRST" value="false" />
