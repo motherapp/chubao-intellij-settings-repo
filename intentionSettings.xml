@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Kotlin/Replace camel-case name with spaces" />
+  </component>
+</application>
