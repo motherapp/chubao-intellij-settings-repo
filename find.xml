@@ -5,7 +5,7 @@
     <option name="defaultScopeName" value="Module 'app'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="Module 'app'" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.java, *.xml" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -17,6 +17,7 @@
       <mask>*.mxml</mask>
       <mask>build.gradle</mask>
       <mask>*.java</mask>
+      <mask>*.java, *.xml</mask>
     </recentFileMasks>
   </component>
 </application>
